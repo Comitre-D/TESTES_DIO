@@ -1,4 +1,4 @@
-Objetivo:
+Atividade - Refinando um projeto conceitual de banco de dados - E-Commerce
 
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
